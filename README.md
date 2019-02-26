@@ -1,6 +1,6 @@
 # 使用データ
-[SIGNATE][https://signate.jp/competitions/121]様からの提供データを使用しています。
-各提供データについては、[SIGNATE][https://signate.jp/competitions/121]より入手してください。
+[SIGNATE](https://signate.jp/competitions/121)様からの提供データを使用しています。  
+各提供データについては、[SIGNATE](https://signate.jp/competitions/121)より入手してください。
 
 # 使用環境
 - Windows Server 2016 Standaard
